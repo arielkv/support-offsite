@@ -96,3 +96,6 @@ Then unzip it:
 `unzip ./ngrok-stable-linux-arm.zip`
 
 Then add the authtoken provided by your ngrok account.
+
+
+lol
